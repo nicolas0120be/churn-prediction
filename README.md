@@ -117,8 +117,8 @@ This phase focuses on interpreting the derived analytical findings and translati
 ## **Operational Procedure**
 
 1. **Repository Cloning:**  
-   git clone https://github.com/\[Your-GitHub-Username\]/customer-churn-prediction.git  
-   cd customer-churn-prediction
+   git clone https://github.com/nicolas0120be/churn-prediction.git
+   
 
 2. Dataset Acquisition:  
    Obtain WA\_Fn-UseC\_-Telco-Customer-Churn.csv from Kaggle and deposit it into the data/ directory. An optional renaming to telco\_customer\_churn.csv is permissible.  
