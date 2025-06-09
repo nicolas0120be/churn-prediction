@@ -4,23 +4,6 @@
 
 This initiative focuses on the development of predictive models aimed at identifying telecommunications customers who exhibit a high propensity for churn, defined as the termination of their service agreements. Through rigorous analysis of a comprehensive dataset encompassing customer demographics, subscribed services, and billing information, the primary objective is to derive data-driven insights. These insights are intended to inform the formulation and implementation of effective customer retention strategies. This project meticulously demonstrates a complete data science workflow, spanning from data acquisition and preprocessing to advanced machine learning model development, comprehensive evaluation, and insightful interpretation.
 
-## **Table of Contents**
-
-1. [Problem Statement](#bookmark=id.86pcq36dr7s)  
-2. [Dataset](#bookmark=id.erwallfelfii)  
-3. [Project Structure](#bookmark=id.7pwkzrps7lgw)  
-4. [Key Features & Technologies](#bookmark=id.bm57iejpd8p0)  
-5. [Analysis & Modeling Phases](#bookmark=id.gf459rz0ji9k)  
-   * [Data Cleaning & Exploratory Data Analysis (EDA)](#bookmark=id.4coh805sp7m6)  
-   * [Feature Engineering](#bookmark=id.elal43fbgad8)  
-   * [Model Training & Evaluation](#bookmark=id.ez31p7qibstd)  
-   * [Insights & Recommendations](#bookmark=id.wci2ubacs5lv)  
-6. [Principal Findings & Recommendations](#bookmark=id.cmz25ew9fxiw)  
-7. [Operational Procedure](#bookmark=id.byafem76d2rl)  
-8. [Prospective Enhancements](#bookmark=id.rzurmlro83cd)  
-9. [License](#bookmark=id.1j3v7u80tuoc)  
-10. [Contact Information](#bookmark=id.fupntqfiegc8)
-
 ## **Problem Statement**
 
 Customer churn represents a significant operational challenge for telecommunications enterprises, frequently resulting in substantial revenue diminution. The proactive identification of customers likely to churn, prior to their actual service cancellation, enables organizations to deploy targeted retention initiatives. Such initiatives, which may include personalized incentives or enhanced customer support, are instrumental in mitigating churn rates and consequently augmenting customer lifetime value.
